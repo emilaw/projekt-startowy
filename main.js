@@ -1,1 +1,2 @@
-alert("Alarm!")
+function alarm(Alarm){
+alert("Alarm")}
